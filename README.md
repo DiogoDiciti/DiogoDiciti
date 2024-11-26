@@ -1,4 +1,4 @@
-<p align="left">Hello! My name is Diogo Diciti and I'm learning programming. </p>
+### <p align="left"> Hello! My name is Diogo Diciti, I'm starting my journey in the world of programming, I'm always looking to evolve to grow as a programmer,and I'm open to learning more. </p>
 
 ###
 
